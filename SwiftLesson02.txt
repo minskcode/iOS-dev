@@ -1,0 +1,13 @@
+let a = 3
+let b : Float = 5.12
+let c = 4.41
+let sumInt : Int = a + Int(b) + Int(c)
+let sumFloat : Float = Float(a) + b + Float(c)
+let sumDouble : Double = Double(a) + Double(b) + c
+print(sumInt, sumFloat, sumDouble)
+if Double(sumInt) < sumDouble {
+  print("SumDouble has better accuracy")
+  else {
+    print("Ne doljno tak bit")
+  }
+}
