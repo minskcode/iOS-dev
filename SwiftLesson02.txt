@@ -8,6 +8,6 @@ print(sumInt, sumFloat, sumDouble)
 if Double(sumInt) < sumDouble {
   print("SumDouble has better accuracy")
   else {
-    print("Ne doljno tak bit")
+    print("Ne doljno tak byt")
   }
 }
