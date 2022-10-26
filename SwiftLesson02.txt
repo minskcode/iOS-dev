@@ -20,9 +20,9 @@ if Double(sumInt) < sumDouble {
 var myResults = (maxPushUps:30, maxPullUps:14, maxSitUps:50)
 print(myResults)
 var (pushes, pulls, sits) = myResults
-print("Maximum number of push-ups is \(pushes) repeats")
-print("Maximum number of pull-ups is \(myResults.1) repeats")
-print("Maximum number of sit-ups is \(myResults.maxSitUps) repeats")
+print("Maximum number of push-ups is \(pushes)")
+print("Maximum number of pull-ups is \(myResults.1)")
+print("Maximum number of sit-ups is \(myResults.maxSitUps)")
 var hisResults = (maxPushUps:32, maxPullUps:12, maxSitUps:57)
 let forChange = myResults
 myResults = hisResults
