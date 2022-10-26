@@ -1,3 +1,5 @@
+// Lesson 2
+
 let a = 3
 let b : Float = 5.12
 let c = 4.91
@@ -10,3 +12,20 @@ if Double(sumInt) < sumDouble {
 }  else {
   print("sumInt has better accuracy")
 }
+
+
+
+// Lesson 3
+
+var myResults = (maxPushUps:30, maxPullUps:14, maxSitUps:50)
+print(myResults)
+var (pushes, pulls, sits) = myResults
+print("Maximum number of push-ups is \(pushes) repeats")
+print("Maximum number of pull-ups is \(myResults.1) repeats")
+print("Maximum number of sit-ups is \(myResults.maxSitUps) repeats")
+var hisResults = (maxPushUps:32, maxPullUps:12, maxSitUps:57)
+let forChange = myResults
+myResults = hisResults
+hisResults = forChange
+print(myResults)
+print(hisResults)
