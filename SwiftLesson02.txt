@@ -32,5 +32,10 @@ print(hisResults)
 
 
 // Lesson 4 - Optionals
+let a = "23"
+let b = "25k"
+let c = "24.1"
+let d = "253"
+let e = "abc"
 
 
