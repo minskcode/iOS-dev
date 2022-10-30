@@ -37,5 +37,9 @@ let b = "25k"
 let c = "24.1"
 let d = "253"
 let e = "abc"
+if let intA = Int(a) {
+print(intA)
+} else {
+print("Значение константы a не может быть приведено к Int")
 
 
