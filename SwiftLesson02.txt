@@ -43,5 +43,5 @@ print(intA)
 print("Значение константы a не может быть приведено к Int")
 
 let optA = 24
-
+let optB = nil
 
