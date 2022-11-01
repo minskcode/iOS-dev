@@ -32,6 +32,7 @@ print(hisResults)
 
 
 // Lesson 4 - Optionals
+
 let a = "23"
 let b = "25k"
 let c = "24.1"
@@ -44,4 +45,6 @@ print("Значение константы a не может быть приведено к Int")
 
 let optA = 24
 let optB = nil
-
+let optC = -24k
+let optD = -23
+let optE = nill
