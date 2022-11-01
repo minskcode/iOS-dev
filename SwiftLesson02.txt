@@ -42,4 +42,6 @@ print(intA)
 } else {
 print("Значение константы a не может быть приведено к Int")
 
+let optA = 24
+
 
