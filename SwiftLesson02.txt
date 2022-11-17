@@ -117,3 +117,14 @@ qw
 e
 qw
 1aaasdasdzxzcxc
+a
+adasdasxz
+zxczxbvcbvcb
+fdgdfgdfg
+vbcmvmc
+dfgdfkgdkf
+MVC
+MVVM
+VIPER
+GCD
+Combine
