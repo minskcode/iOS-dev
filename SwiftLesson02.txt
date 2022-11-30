@@ -63,6 +63,8 @@ ds
 dd
 d
 s
+s
+s
 f
 let eprst = forWhat?
 let abvgd = gde?
